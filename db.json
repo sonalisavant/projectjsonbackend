@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Burger",
+      "price": "200",
+      "image": "Burger.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Coffee",
+      "price": "200",
+      "image": "Coffe.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Donuts",
+      "price": "700",
+      "image": "Donutes.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "French Fries",
+      "price": "900",
+      "image": "Fries.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Pizza",
+      "price": "1500",
+      "image": "Pizza.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Spring Roll",
+      "price": "980",
+      "image": "Roll.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Sandwich",
+      "price": "100",
+      "image": "Sandwich.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Sandwich",
+      "price": "1300",
+      "image": "Sandwich.jpeg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "userType": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "user123",
+      "userType": "user"
+    },
+    {
+      "id": "3",
+      "username": "sonali",
+      "password": "sona123",
+      "userType": "admin"
+    }
+  ]
+}
